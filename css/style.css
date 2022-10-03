@@ -103,6 +103,7 @@ color: #000000;
     line-height: 1.6;
     letter-spacing: 0.03em;
     cursor: pointer;
+    display: inline-block
 }
 .button-list :hover,
 .button-list :focus{
