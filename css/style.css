@@ -36,6 +36,9 @@ body{
     line-height: 0.8;
     letter-spacing: 0.02em;
 }
+.decorate-list .link{
+    color: var(--button-link-color);   
+}
 .decorate-list a:hover,
 .decorate-list a:focus{
     color: var(--button-link-color);
